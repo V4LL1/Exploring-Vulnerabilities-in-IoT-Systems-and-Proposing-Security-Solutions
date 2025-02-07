@@ -28,17 +28,6 @@ Repository Structure
  ├── 📁 tests           # Security tests and attack demonstrations
  ├── README.md         # Project overview and instructions
 
-How to Use
-
-Clone the repository:
-
-git clone https://github.com/yourusername/esp32-iot-security.git
-
-Follow the setup instructions in the docs folder.
-
-Run the security experiments and review the results.
-
-Implement security measures and test their effectiveness.
 
 Expected Outcomes
 
